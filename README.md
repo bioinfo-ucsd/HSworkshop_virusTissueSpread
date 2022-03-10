@@ -4,7 +4,7 @@ COVID-19 is a disease caused by the virus SARS-CoV-2. As you may already know, t
 
 This activity takes about 1 hour or more. It is aimed at high schoolers from beginer to expert level background in coding and biology.
 
-Run python in browser: https://mybinder.org/v2/gh/jennifer-bio/2021_viralTissueWorkshop/HEAD 
+Run python in browser: https://mybinder.org/v2/gh/bioinfo-ucsd/outreachWorkshop_virusTissueSpread/HEAD 
 Or download code and run on locally with jupyter notebooks.
 
 ## Worksheet questions
